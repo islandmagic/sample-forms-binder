@@ -1,1 +1,13 @@
-
+{
+  "id" : "co.islandmagic.sample-forms-binder",
+  "name" : "Sample Forms",
+  "publisher" : "islandmagic.co",
+  "description" : "A collection of sample forms.",
+  "version" : "1.0.0",
+  "languages" : ["en"],
+  "authors" : ["Georges Auberger"],
+  "email" : "nobody@example.org",
+  "homepage" : "https://islandmagic.co",
+  "keywords" : ["SAMPLE"],
+  "repository" : "https://github.com/islandmagic/sample-forms-binder.git"
+}
