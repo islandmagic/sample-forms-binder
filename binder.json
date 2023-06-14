@@ -3,6 +3,7 @@
   "name" : "Sample Forms",
   "publisher" : "islandmagic.co",
   "description" : "A collection of sample forms.",
+  "icon" : "https://example.org/icon.png",
   "version" : "1.0.0",
   "languages" : ["en"],
   "authors" : ["Georges Auberger"],
