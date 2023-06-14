@@ -1,14 +1,18 @@
 {
   "id" : "co.islandmagic.sample-forms-binder",
   "name" : "Sample Forms",
-  "publisher" : "islandmagic.co",
   "description" : "A collection of sample forms.",
   "icon" : "https://example.org/icon.png",
   "version" : "1.0.0",
   "languages" : ["en"],
+  "applications" : ["radiomail", "woad", "pat", "rmsexpress"]
+  "publisher: " {
+    "verification_domain" : "islandmagic.co",
+    "name" : "Island Magic Co."
+   }
   "authors" : ["Georges Auberger"],
-  "email" : "nobody@example.org",
+  "email" : "support@example.org",
   "homepage" : "https://islandmagic.co",
-  "keywords" : ["SAMPLE"],
+  "keywords" : ["cert"],
   "repository" : "https://github.com/islandmagic/sample-forms-binder.git"
 }
