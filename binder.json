@@ -5,7 +5,6 @@
   "icon" : "https://example.org/icon.png",
   "version" : "1.0.0",
   "languages" : ["en"],
-  "applications" : ["radiomail", "woad", "pat", "rmsexpress"]
   "publisher" : {
     "verification_domain" : "islandmagic.co",
     "name" : "Island Magic Co."
